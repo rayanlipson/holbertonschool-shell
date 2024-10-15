@@ -1,0 +1,2 @@
+#!/bin/bash
+python list_user_groups.py
