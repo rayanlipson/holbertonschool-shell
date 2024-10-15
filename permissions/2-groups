@@ -1,2 +1,2 @@
 #!/bin/bash
-print(group)
+print("Groups for user:", os.getlogin())
