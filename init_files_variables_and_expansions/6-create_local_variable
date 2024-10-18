@@ -1,2 +1,3 @@
 #!/bin/bash
-BEST="school"
+echo 'BEST="School"' >> myscript.sh && chmod +x myscript.sh
+
